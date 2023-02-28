@@ -12,5 +12,5 @@ our proposed method.
 
 ## Various Results
 <p align="center">
-<img src="https://github.com/souhaiel1/Exposure Fusion/Results/res1.PNG" />
+<img src="https://github.com/souhaiel1/Exposure-Fusion/Results/res1.PNG" />
 </p>
