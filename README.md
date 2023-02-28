@@ -14,3 +14,11 @@ our proposed method.
 <p align="center">
 <img src="https://github.com/souhaiel1/Exposure-Fusion/blob/main//Results/res1.PNG" />
 </p>
+
+<p align="center">
+<img src="https://github.com/souhaiel1/Exposure-Fusion/blob/main//Results/res2.PNG" />
+</p>
+
+<p align="center">
+<img src="https://github.com/souhaiel1/Exposure-Fusion/blob/main//Results/res3.PNG" />
+</p>
