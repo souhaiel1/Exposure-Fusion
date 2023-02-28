@@ -12,4 +12,4 @@ our proposed method.
 
 ## Various Results
 
-![Results/res1.png](res1.png "St.Louis")
+![/Results/res1.PNG](res1.PNG "St.Louis")
