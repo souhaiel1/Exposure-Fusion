@@ -12,6 +12,5 @@ our proposed method.
 
 ## Various Results
 <p align="center">
-!["https://github.com/souhaiel1/Exposure Fusion/Results/res1.PNG](res1.PNG "St.Louis")
 <img src="https://github.com/souhaiel1/Exposure Fusion/Results/res1.PNG" />
 </p>
