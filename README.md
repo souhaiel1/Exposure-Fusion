@@ -12,4 +12,4 @@ our proposed method.
 
 ## Various Results
 
-!["https://github.com/souhaiel1/Exposure Fusion/Results/](res1.PNG "St.Louis")
+!["https://github.com/souhaiel1/Exposure Fusion/Results/res1.PNG](res1.PNG "St.Louis")
