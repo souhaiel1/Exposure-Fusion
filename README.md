@@ -10,6 +10,13 @@ quality measures such as saturation and contrast. The resulting image quality is
 comparable to existing tone mapping operators and demonstrates the potential of
 our proposed method. 
 
+
+## Illustraion 
+
+<p align="center">
+<img src="https://github.com/souhaiel1/Exposure-Fusion/blob/main//Results/illustration.PNG" />
+</p>
+
 ## Various Results
 <p align="center">
 <img src="https://github.com/souhaiel1/Exposure-Fusion/blob/main//Results/res1.PNG" />
