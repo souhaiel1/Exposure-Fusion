@@ -11,3 +11,5 @@ comparable to existing tone mapping operators and demonstrates the potential of
 our proposed method. 
 
 ## Various Results
+
+![Results/](res1.png "St.Louis")
